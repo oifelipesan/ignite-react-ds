@@ -9,7 +9,7 @@ import './styles/global.css'
 
 export function App() {
   return (
-    <div className='w-full h-full bg-gray-900 flex flex-col pt-8 pb-12 items-center justify-center text-gray-100'>
+    <div className='w-full min-h-screen h-full bg-gray-900 flex flex-col pt-8 pb-12 items-center justify-center text-gray-100'>
       <header className='flex flex-col items-center justify-center'>
         <Logo />
 
